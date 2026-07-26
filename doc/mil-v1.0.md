@@ -1,4 +1,4 @@
-```markdown
+markdown
 # MIL v1.1 — Memory Interoperability Layer with Path Archiving
 
 **Status:** Draft  
